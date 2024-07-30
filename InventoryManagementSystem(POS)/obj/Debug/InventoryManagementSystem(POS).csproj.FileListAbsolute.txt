@@ -1,0 +1,16 @@
+C:\Users\porti\source\repos\InventoryManagementSystem(POS)\bin\Debug\InventoryManagementSystem(POS).exe.config
+C:\Users\porti\source\repos\InventoryManagementSystem(POS)\bin\Debug\InventoryManagementSystem(POS).exe
+C:\Users\porti\source\repos\InventoryManagementSystem(POS)\bin\Debug\InventoryManagementSystem(POS).pdb
+C:\Users\porti\source\repos\InventoryManagementSystem(POS)\obj\Debug\InventoryManagementSystem(POS).csproj.AssemblyReference.cache
+C:\Users\porti\source\repos\InventoryManagementSystem(POS)\obj\Debug\InventoryManagementSystem_POS_.Form1.resources
+C:\Users\porti\source\repos\InventoryManagementSystem(POS)\obj\Debug\InventoryManagementSystem_POS_.Properties.Resources.resources
+C:\Users\porti\source\repos\InventoryManagementSystem(POS)\obj\Debug\InventoryManagementSystem_POS_.RegisterForm.resources
+C:\Users\porti\source\repos\InventoryManagementSystem(POS)\obj\Debug\InventoryManagementSystem(POS).csproj.GenerateResource.cache
+C:\Users\porti\source\repos\InventoryManagementSystem(POS)\obj\Debug\InventoryManagementSystem(POS).csproj.CoreCompileInputs.cache
+C:\Users\porti\source\repos\InventoryManagementSystem(POS)\obj\Debug\InventoryManagementSystem(POS).exe
+C:\Users\porti\source\repos\InventoryManagementSystem(POS)\obj\Debug\InventoryManagementSystem(POS).pdb
+C:\Users\porti\source\repos\InventoryManagementSystem(POS)\obj\Debug\InventoryManagementSystem_POS_.MainForm.resources
+C:\Users\porti\source\repos\InventoryManagementSystem(POS)\obj\Debug\InventoryManagementSystem_POS_.AdminDash.resources
+C:\Users\porti\source\repos\InventoryManagementSystem(POS)\obj\Debug\InventoryManagementSystem_POS_.AdminAddUsers.resources
+C:\Users\porti\source\repos\InventoryManagementSystem(POS)\obj\Debug\InventoryManagementSystem_POS_.AdminAddCategories.resources
+C:\Users\porti\source\repos\InventoryManagementSystem(POS)\obj\Debug\InventoryManagementSystem_POS_.AdminAddProducts.resources
